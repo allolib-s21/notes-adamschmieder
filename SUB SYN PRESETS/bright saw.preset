@@ -1,0 +1,19 @@
+::bright saw
+/amplitude f 0.385000 
+/attackTime f 0.010000 
+/bw1 f 2235.346924 
+/bw2 f 2053.686035 
+/bwRise f 0.100000 
+/cf1 f 322.230011 
+/cf2 f 515.244995 
+/cfRise f 0.100000 
+/curve f 4.769000 
+/envDur f 0.000000 
+/frequency f 384.868225 
+/hmamp f 1.000000 
+/hmnum f 19.590000 
+/noise f 0.000000 
+/pan f 0.000000 
+/releaseTime f 0.100000 
+/sustain f 0.700000 
+::

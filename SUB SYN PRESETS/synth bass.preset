@@ -1,0 +1,19 @@
+::synth bass
+/amplitude f 0.385000 
+/attackTime f 0.010000 
+/bw1 f 696.906006 
+/bw2 f 10.000000 
+/bwRise f 0.100000 
+/cf1 f 481.183014 
+/cf2 f 259.783997 
+/cfRise f 0.100000 
+/curve f 3.470000 
+/envDur f 1.877000 
+/frequency f 384.868225 
+/hmamp f 0.667000 
+/hmnum f 6.468000 
+/noise f 0.167000 
+/pan f 0.000000 
+/releaseTime f 0.100000 
+/sustain f 0.652000 
+::
